@@ -1,1 +1,3 @@
-Requirements for Submission to the
+Requirements for Approval of
+Implementations
+by the DCWDNDG Foundation
